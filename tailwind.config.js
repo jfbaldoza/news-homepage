@@ -16,6 +16,8 @@ export default {
         primary: 'rgb(var(--color-primary) / <alpha-value>)',
         secondary: 'rgb(var(--color-secondary) / <alpha-value>)',
         offwhite: 'rgb(var(--color-off-white) / <alpha-value>)',
+        grayishblue: 'rgb(var(--color-dark-grayish-blue) / <alpha-value>)',
+        darkblue: 'rgb(var(--very-dark-blue) / <alpha-value>)'
       }
     },
   },
